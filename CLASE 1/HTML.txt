@@ -1,0 +1,38 @@
+CLASE 1......
+
+ HEAD es la parte que nos proporciona información a la PAGINA
+
+BODY dentro del body es donde va a estar todo el contenido de la pagina 
+
+H1 es el titulo Principal 
+H2 
+H3
+H4
+H5
+H6
+
+
+
+A la etiqueta A es para vincular un link o hypervinculo
+
+
+CCLASE 2 .....
+HTML SEMANTICO es repetas el diseño de la web con sus elementos correspondientes 
+
+Elementos en bloque:
+h1 h2 h3 p UL LI DIV HEADER NAV SECION ARTICLE FOOTER FORM
+
+Elementos en linea(inline)
+
+A B BR STRONG IMG SPAN INPUT BUTTON LABEL TEXAREA
+
+
+
+FORMULARIO
+
+Son elementos que permiten a los usuarios que ingresar a datos en sitios web.
+Estan compuestos por diferentes tipos de campos que les permiten
+cumplir su objetivo
+
+los datos ingresas se pueden enviar a un servidor para su procesamiento y o almacenamiento
+
